@@ -1,0 +1,20 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyInstaller 中间产物
+build/
+*.spec
+
+# 本地第三方工具链（CLI + .NET 运行时），与 dist 成品内副本重复，不入库
+tools/
+
+# 本地解包素材与生成壁纸（不入库，版权归游戏官方）
+output/
+assets_raw/
+
+# 临时 / 日志
+*.log
+*.tmp
+.DS_Store
