@@ -1,5 +1,7 @@
 # WE Web 壁纸生成器（Spine → Wallpaper Engine · 桌面 GUI）
 
+仓库：https://github.com/KILLER2017/wallpaper-engine-spine-generator
+
 把一套 Spine 三件套（`.skel` / `.atlas` / `.png`）一键生成可直接导入 **Wallpaper Engine** 的 **Web 网页壁纸**工程：桌面窗口操作，后端实时渲染 Spine 模型循环播放待机动画，不是视频文件。
 
 ## 一、运行环境
